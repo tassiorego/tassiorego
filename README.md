@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Tássio Rego 👋
 
-I'm Software developer e that is an enthusiast of all ecosystem Javascript and fan of technology. Currently working with React, React Native, 
+I'm Software developer and that is an enthusiast of all ecosystem Javascript and fan of technology. Currently working with React, React Native, 
 and Node at [Criatech Soluções](http://criatech.me).
 
 ## 🔭 Currently working with
