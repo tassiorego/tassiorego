@@ -1,31 +1,34 @@
-<!--
-**tassiorego/tassiorego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassirego">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego&layout=compact&theme=radical" />
+  </a>
+</p>
+<p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi, I'm Tássio Rego 👋
-
-I'm Software developer and that is an enthusiast of all ecosystem Javascript and fan of technology. Currently working with React, React Native, 
-and Node at [Criatech Soluções](http://criatech.me).
-
-## 🔭 Currently working with
-
-- :zap: API's Development [Node.js, Postgres, Mongodb, Redis, Jest, TypeScript]
-- :zap: Microservices Development [Node.js, Kafka, TypeScript]
-- :zap: Web Applications Development [React, TypeScript]
-- :zap: Android and iOS Application Development [React Native, TypeScript]
-
-## 🌱 I’m currently learning
-- :zap: Unit Testing and Integration Testing [Jest]
+  <a href="https://web.whatsapp.com/send?phone=+5587999752828" alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat-square&logo=WhatsApp&logoColor=white" />
+  </a>
   
+  <a href="https://www.linkedin.com/in/t%C3%A1ssio-rego-405438148/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/tassiorego" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/tassiorego" alt="Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=tassiorego&color=gray&style=flat-square" />
+  </a>
+</p>
+<p align="center">
+  💼  &nbsp; Developer at <a href="https://criatech.me">Criatech Soluções<a/> &nbsp;
+<p align="center">
+  📚 &nbsp; Graduating in <b>Computer science</b> &nbsp;
+</p>
+<p align="center">
+  📌 &nbsp; Living in Petrolina, PE, Brazil &nbsp;
+</p>
+</p>
