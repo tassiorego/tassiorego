@@ -4,7 +4,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego&layout=compact&theme=radical" />
   </a>
 </p>
-<p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
+<p align="center"> JavaScript | TypeScript | Node | React | React Native </p>
 <p align="center">
 
   <a href="https://web.whatsapp.com/send?phone=+5587999752828" alt="WhatsApp" target="_blank">
