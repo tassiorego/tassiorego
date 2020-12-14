@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassirego">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego&layout=compact&theme=radical" />
   </a>
 </p>
