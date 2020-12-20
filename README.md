@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/t%C3%A1ssio-rego-405438148/" alt="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/tassiorego" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
