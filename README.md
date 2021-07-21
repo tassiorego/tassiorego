@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-  💼  &nbsp; Developer at <a href="https://criatech.me">Criatech Soluções<a/> &nbsp;
+  💼  &nbsp; Developer at <a href="https://meliuz.com.br">Méliuz<a/> &nbsp;
 <p align="center">
   📚 &nbsp; Graduating in <b>Computer science</b> &nbsp;
 </p>
