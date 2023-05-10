@@ -6,10 +6,6 @@
 </p>
 <p align="center"> JavaScript | TypeScript | Node | React | React Native </p>
 <p align="center">
-
-  <a href="https://web.whatsapp.com/send?phone=+5587999752828" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
   
   <a href="https://www.linkedin.com/in/tassiorego" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
