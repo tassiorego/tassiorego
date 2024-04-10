@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  💼  &nbsp; Developer at <a href="https://meliuz.com.br">Méliuz<a/> &nbsp;
+  💼  &nbsp; Software Engineer at <a href="https://nuvemshop.com.br">Nuvemshop<a/> &nbsp;
 <p align="center">
   📚 &nbsp; Graduating in <b>Computer science</b> &nbsp;
 </p>
